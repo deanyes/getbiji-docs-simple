@@ -1,21 +1,20 @@
 - [首页](/)
-- **开始使用**
+- **入门**
+  - [下载App](guide/download.md)
   - [快速上手](guide/quickstart.md)
-  - [APP下载](guide/download.md)
-- **语音记录**
+- **语音**
   - [语音速记](voice/recording.md)
   - [会议录音](voice/meeting.md)
   - [课堂录音](voice/classroom.md)
-- **多媒体记录**
-  - [拍照记录](capture/photo.md)
-  - [链接收藏](capture/link.md)
-  - [拍书扫描](capture/book.md)
-- **AI 功能**
-  - [AI 搜索](ai/search.md)
-  - [AI 润色](ai/polish.md)
-- **知识库**
-  - [知识库介绍](knowledge-base/index.md)
-- **GetSeed**
-  - [GetSeed 介绍](getseed/index.md)
-- [更新日志](changelog/index.md)
-- [常见问题](faq/index.md)
+- **记录**
+  - [拍照](capture/photo.md)
+  - [链接](capture/link.md)
+  - [拍书](capture/book.md)
+- **AI**
+  - [AI搜索](ai/search.md)
+  - [AI润色](ai/polish.md)
+- **更多**
+  - [知识库](knowledge-base/index.md)
+  - [GetSeed](getseed/index.md)
+  - [更新日志](changelog/index.md)
+  - [FAQ](faq/index.md)

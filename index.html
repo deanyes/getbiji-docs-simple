@@ -3,16 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Get笔记文档</title>
+  <title>Get笔记帮助中心</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+  <style>
+    .markdown-section table { display: table; width: 100%; }
+    .markdown-section td { text-align: center; padding: 20px 10px; }
+    .markdown-section td a { font-size: 16px; }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'Get笔记',
-      loadSidebar: true,
-      subMaxLevel: 1
+      loadSidebar: false
     }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
